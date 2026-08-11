@@ -1,38 +1,354 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- =========================
+     DEEPAK KUMAR - GITHUB PROFILE
+     ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar19-10&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar19-10" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar19-10" alt="deepakkumar19-10" /></a> </p>
+# 👋 Hi, I'm **Deepak Kumar**
 
-- 🔭 I’m currently working on **Frontend and React projects**
+### 🚀 Frontend Developer | React Developer | Future Full-Stack & Mobile Developer
 
-- 🌱 I’m currently learning **JavaScript, React, React Native, Node.js and modern web development**
-
-- 👯 I’m looking to collaborate on **Open-source frontend and React projects**
-
-- 🤝 I’m looking for help with **Advanced React, React Native and building production-ready applications**
-
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React and Frontend Development**
-
-- 📫 How to reach me **deepakkumar19152002@gmail.com**
-
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
-
-- ⚡ Fun fact **I enjoy turning ideas into real-world web and mobile applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-55a59b18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-55a59b18a" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/deepakkumar19-10">
+    <img src="https://komarev.com/ghpvc/?username=deepakkumar19-10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/deepakkumar19-10?tab=followers">
+    <img src="https://img.shields.io/github/followers/deepakkumar19-10?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/deepakkumar19-10">
+    <img src="https://img.shields.io/github/stars/deepakkumar19-10?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/deepak-kumar-55a59b18a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepakkumar19152002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar19-10&show_icons=true&locale=en&layout=compact" alt="deepakkumar19-10" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar19-10&show_icons=true&locale=en" alt="deepakkumar19-10" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar19-10&" alt="deepakkumar19-10" /></p>
+## 🧑‍💻 About Me
+
+```javascript
+const deepak = {
+    name: "Deepak Kumar",
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    
+    currentFocus: [
+        "JavaScript",
+        "React",
+        "React Native",
+        "Node.js",
+        "Modern Web Development"
+    ],
+
+    learning: [
+        "Advanced React",
+        "Backend Development",
+        "REST APIs",
+        "Mobile App Development"
+    ],
+
+    goal: "Build scalable web & mobile applications 🚀",
+
+    mindset: "Learn → Build → Improve → Repeat 🔥"
+};
+```
+
+I'm a developer who enjoys turning **ideas into real-world web and mobile applications**.
+
+Currently, I'm focused on strengthening my **JavaScript and React fundamentals**, building practical projects, and gradually moving toward **Full-Stack and React Native development**.
+
+> 💡 **My goal:** Become a strong developer by building real products, not just completing tutorials.
+
+---
+
+## 🚀 What I'm Currently Doing
+
+| 🔭 Working On               | 🌱 Learning         |
+| --------------------------- | ------------------- |
+| Frontend & React Projects   | Advanced JavaScript |
+| Responsive Web Applications | React & React Hooks |
+| Real-world UI Development   | React Native        |
+| Personal Projects           | Node.js & APIs      |
+
+| 👯 Looking to Collaborate  | 🤝 Looking for Help           |
+| -------------------------- | ----------------------------- |
+| Open-source React projects | Advanced React                |
+| Frontend projects          | React Native                  |
+| JavaScript projects        | Production-ready applications |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+</a>
+
+<a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" width="50"/>
+</a>
+
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+
+<a href="https://reactnative.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+</a>
+
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="50"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+</a>
+
+</p>
+
+### ☕ Programming
+
+<p align="left">
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+
+</p>
+
+### 🔧 Tools & DevOps
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏋️ FitHealthcare
+
+> A fitness & healthcare platform focused on nutrition, exercise, weight management and user authentication.
+
+**Features**
+
+* 🔐 JWT Authentication
+* 📧 Email Verification
+* 🔄 Access & Refresh Tokens
+* 🔑 Forgot / Reset Password
+* 👤 Protected Routes
+* 🗄️ MongoDB Database
+* 📱 Responsive UI
+
+**Tech:** `HTML` `CSS` `JavaScript` `MongoDB` `JWT`
+
+---
+
+### 🛒 Grocery Management System
+
+A full-stack application for managing grocery products and operations.
+
+**Tech:** `React` `Java` `Spring Boot` `Hibernate` `SQL`
+
+---
+
+### 🎮 Tic-Tac-Toe
+
+A responsive browser-based game built while strengthening JavaScript fundamentals.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 📝 To-Do Application
+
+A simple productivity application focused on DOM manipulation, events and JavaScript logic.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepakkumar19-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar19-10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepakkumar19-10&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepakkumar19-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+
+</div>
+
+---
+
+## 📈 My Developer Journey
+
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+React ⚛️
+  ↓
+React Native 📱
+  ↓
+Node.js + Express
+  ↓
+MongoDB
+  ↓
+Full-Stack Developer 🚀
+```
+
+### 🎯 2026 Goals
+
+* [x] Build strong HTML & CSS fundamentals
+* [x] Learn JavaScript fundamentals
+* [ ] Master Advanced JavaScript
+* [ ] Become strong in React
+* [ ] Build production-quality React projects
+* [ ] Learn React Native
+* [ ] Build Android & iOS applications
+* [ ] Master Node.js & Express
+* [ ] Build REST APIs
+* [ ] Work with MongoDB
+* [ ] Deploy full-stack applications
+* [ ] Contribute to Open Source
+* [ ] Become a strong Full-Stack Developer
+
+---
+
+## 💬 Ask Me About
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Frontend Development`
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/deepak-kumar-55a59b18a">
+<img src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deepakkumar19152002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-deepakkumar19152002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepakkumar19-10">
+<img src="https://img.shields.io/badge/GitHub-deepakkumar19--10-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Don't just learn to code. Build something people can use."
+
+<br>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
